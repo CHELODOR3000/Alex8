@@ -1,0 +1,1287 @@
+
+@media (max-width: 1600px) {
+    .advantages-body {
+        transform: scale(0.9);
+        transform-origin: top;
+    }
+    .header {
+        min-height: 720px;
+    }
+}
+@media (max-width: 1350px) {
+    .advantages-body {
+        transform: scale(0.9);
+        transform-origin: top;
+    }
+    .advantages-body__lower-part {
+        margin-top: 30px;
+    }
+}
+/* Large desktops and laptops */
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .header-content {
+        margin-left: 70px;
+    }
+    
+}
+@media (max-width: 1100px) {
+    .services {
+        height: 1582px;
+    }
+
+    .services-bg {
+        height: 1582px;
+    }
+    
+}
+
+@media (max-width: 1024px) {
+    .consultant__image {
+        width: 200px;
+        height: 200px;
+    }
+    .consultant-content__left-side, .consultant-content__right-side {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 540px;
+    }
+    .header {
+        min-height: 560px;
+    }
+    .specialists-slider .consultant-content__consultant {
+        margin-bottom: 15px;
+    }
+    
+    .advantages-body__lower-part {
+        margin-top: 20px;
+    }
+
+    .specialists-dots {
+        padding: 0 30px;
+    }
+
+    .specialists-dots .slick-dots button {
+        height: 190px;
+        width: 190px;
+    }
+}
+
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .specialists__image {
+        width: 420px;
+        height: 420px;
+    }
+    .specialists__name {
+        font-size: 40px;
+    }
+    .specialists-content {
+        margin-left: 15px;
+    }
+    .consultant-content__consultant {
+        width: 430px;
+        
+    }
+    .consultant-content__left, .consultant-content__right {
+        margin-left: 20px;
+    }
+
+    .services__left-side, .services__right-side {
+        width: 100%;
+    }
+    .services__right-side {
+        margin-left: 15px;
+    }
+    .services__left-side {
+        margin-right: 15px;
+    }
+    .services__part3 .services__right-side .services__part-content{
+        width: 100%;
+    }
+    
+    .services__part3 .services__right-side .services__part-subtitle {
+        width: 100%;
+    }
+    .advantages {
+        padding-top: 80px;
+    }
+
+    .advantages-body {
+        transform: scale(0.9);
+        transform-origin: top;
+    }
+
+    .advantages-monitor {
+        padding: 80px 20px 0 20px;
+    }
+    .header__menu {
+        width: 810px;
+    }
+    .menu li {
+        margin-right: 0px;
+        padding: 5px 15px;
+    }
+
+    .header-content {
+        transform: scale(0.8);
+        transform-origin: top;
+    }
+
+    .about {
+        height: 1580px;
+    }
+
+    .about-slider {
+       min-width: 950px;
+    }
+
+    .about-slider__left {
+        max-width: 320px;
+        line-height: 1.2;
+    }
+
+    .about-body__line {
+        margin: 15px 0 20px 0;
+    }
+    .right-side {
+        width: 58.95%;
+    }
+    
+}
+
+@media (max-width: 850px) {
+    
+    .specialists-slider {
+        margin-bottom: 50px;
+    }
+    .specialists-dots .slick-dots button {
+        height: 150px;
+        width: 150px;
+    }
+    .specialists-slider .specialists__name {
+        font-size: 30px;
+    }
+    .specialists__description h1 {
+        font-size: 20px;
+    }
+    .specialists__description p {
+        font-size: 20px;
+    }
+    .specialists-slider .specialists__image {
+        width: 320px;
+        height: 320px;
+    }
+    .specialists-slider .consultant__image {
+        width: 150px;
+        height: 150px;
+    }
+    .specialists-slider .consultant-content__consultant {
+        width: 310px;
+        
+    }
+    .services {
+        height: 1660px;
+    }
+    .services-bg {
+        height: 1660px;
+    }
+    .advantages-header {
+        margin-bottom: 40px;
+    }
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 769px) and (max-width: 991px) {
+    .map__right-side {
+        transform: scale(0.8);
+        transform-origin: top;
+    }
+    .circle808 {
+        width: 57px;
+        height: 57px;
+        top: -12px;
+        left: -16px;
+    }
+    .circle809 {
+        width: 57px;
+        height: 57px;
+        top: -32px;
+        right: -8px;
+    }
+    .reviews__title {
+        width: 500px;
+    }
+    .specialists__image {
+        width: 380px;
+        height: 380px;
+    }
+    .specialists__name {
+        font-size: 40px;
+        line-height: 1;
+    }
+    .specialists-content {
+        margin-left: 15px;
+    }
+    .specialists__description {
+        margin-top: 15px;
+    }
+
+    .specialists__description p {
+        margin-top: 15px;
+    }
+    .consultant-content__consultant {
+        width: 345px;
+        
+    }
+    .consultant__image {
+        width: 180px;
+        height: 180px;
+    }
+    .consultant-content__left, .consultant-content__right {
+        margin-left: 20px;
+    }
+    .services__left-side, .services__right-side {
+        width: 100%;
+    }
+    .services__right-side {
+        margin-left: 5px;
+    }
+    .services__left-side {
+        margin-right: 5px;
+    }
+    .services__part3 .services__right-side .services__part-content{
+        width: 100%;
+    }
+    
+    .services__part3 .services__right-side .services__part-subtitle {
+        width: 100%;
+    }
+    .circle804 {
+        height: 57px;
+        width: 57px;
+    }
+    .circle805 {
+        height: 57px;
+        width: 57px;
+        left: 30px;
+        top: 60px;
+    }
+    .specialists__title {
+        max-width: 412px;
+    }
+    .circle806 {
+        height: 57px;
+        width: 57px;
+        top: -5.5px;
+        left: -10px;
+    }
+    
+    .circle807 {
+        height: 57px;
+        width: 57px;
+        top: -30px;
+        right: -10px;
+    }
+    .map-title {
+        max-width: 340px;
+    }
+    .circle8010 {
+        width: 57.5px;
+        height: 57.5px;
+        top: -31.5px;
+        left: -17.5px;
+    }
+
+    .circle8011 {
+        width: 57.5px;
+        height: 57.5px;
+        right: -21px;
+    }
+    .title {
+        font-size: 45px;
+    }
+    .advantages {
+        padding-top: 60px;
+    }
+    .advantages-header {
+        width: 450px;
+    }
+
+    .circle803 {
+        width: 55px;
+        height: 55px;
+        top: -25px;
+        right: -15px;
+    }
+
+    .advantages-monitor {
+        padding: 60px 20px 0 20px;
+    }
+    .header__menu {
+        max-width: 630px;
+    }
+    .menu {
+        font-size: 17px;
+    }
+    .menu li {
+        margin-right: 0px;
+        padding: 5px 9px;
+    }
+    .header-content { 
+        transform: scale(0.6);
+        margin-left: -130px;
+    }
+/*--------------------------------------*/
+ 
+    .about {
+        height: 1300px;
+    }
+
+    .about-header {
+        padding-top: 80px;
+    }
+
+    .about-title {
+        max-width: 350px;
+    }
+
+    .circle801 {
+        width: 50px;
+        height: 50px;
+        top: -18px;
+        left: -15px;
+    }
+
+    .circle802 {
+        width: 50px;
+        height: 50px;
+        top: -6px;
+        right: -18px;
+    }
+
+    .about-line {
+        margin-bottom: 130px;
+    }
+    .about-medium {
+        margin-top: 130px;
+    }
+
+    .about-subtitle {
+        font-size: 28px;
+        margin-top: 70px;
+    }
+
+    .about-slider__left {
+        max-width: 250px;
+        line-height: 1.2;
+    }
+ 
+    .about-body__title {
+        font-size: 32px;
+    }
+
+    .about-medium__sign1, .about-medium__sign2, .about-medium__sign3 {
+        top: 190px;
+    }
+    
+
+    .about-body__line {
+        width: 100px;
+        margin: 15px 0 20px 0;
+    }
+
+    .about-body__content {
+        font-size: 20px;
+    }
+
+
+    .right-side {
+        width: 58.95%;
+    }
+
+    .about-dots {
+        padding-top: 80px;
+    }
+
+    .about-dots__line {
+        top: 130px;
+    }
+    .about-dots .slick-dots li button {
+        width: 84px;
+        height: 84px;
+        font-size: 55px;
+    }
+}
+
+@media (max-width: 830px) {
+    .reviews__content {
+        display: flex;
+        flex-direction: column;
+    } 
+    .reviews__block-left, .reviews__block-right {
+        float: none;
+        width: 100%;
+    }
+    .reviews__form {
+        float: none;
+        width: 100%;
+    }
+    
+}
+ 
+@media (max-width: 700px) {
+    .specialists-dots .slick-dots button {
+        height: 130px;
+        width: 130px;
+    }
+    .reviews__content {
+        line-height: 1.2;
+    } 
+    .reviews__block-left, .reviews__block-right {
+        
+        padding: 15px 10px;
+    }
+    .review__user {
+        width: 70px;
+        height: 70px;
+        margin-right: 10px;
+    }
+    .reviews__form {
+        font-size: 24px;
+        padding: 15px 15px;
+    }
+    .reviews__form input {
+        margin-right: 10px;
+    }
+    .services {
+        height: 1800px;
+    }
+    .services-bg {
+        height: 1800px;
+    }
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 768px) {
+    .map-button.active {
+        transform: scale(0.8);
+        top: 6vh;
+        right: 1.5vh;
+    }
+    .map__right-side {
+        transform: scale(0.7);
+        transform-origin: top;
+        margin-right: -30px;
+    }
+    .map-title {
+        margin-top: 80px;
+    }
+    .footer {
+        height: 200px;
+    }
+    .footer__logo {
+        transform: scale(0.8);
+        transform-origin: top;
+        margin-top: 50px;
+    }
+    .footer__social-networks {
+        margin-top: 0px;
+    }
+    .map-title {
+        max-width: 300px;
+    }
+    .circle8010 {
+        width: 57.5px;
+        height: 57.5px;
+        top: -31.5px;
+        left: -17.5px;
+    }
+
+    .circle8011 {
+        width: 57.5px;
+        height: 57.5px;
+        right: -21px;
+    }
+    .reviews {
+        background-position: 48.7% 80px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url('../img/reviews/IpadScreen.jpg');
+        height: 1000px;
+    }
+    .reviews__block-left, .reviews__block-right {
+        padding: 15px 10px;
+    }
+    .reviews__ipad {
+        height: 100%;
+    }
+    .reviews__content {
+        font-size: 19px;
+        line-height: 1.2;
+    } 
+    .reviews__form {
+        font-size: 19px;
+    }
+    .review__user {
+        width: 70px;
+        height: 70px;
+    }
+    .reviews__form input {
+        height: 50px;
+        width: 90%;
+    }
+    .arrow {
+        height: 40px;
+        width: 40px;
+    }
+    .reviews__ipad {
+        padding-top: 180px;
+    }
+    .circle808 {
+        width: 57px;
+        height: 57px;
+        top: -12px;
+        left: -16px;
+    }
+    .circle809 {
+        width: 57px;
+        height: 57px;
+        top: -32px;
+        right: -8px;
+    }
+    .reviews__title {
+        width: 440px;
+    }
+    .specialists__post {
+        margin-bottom: 10px;
+    }
+    .specialists__description p {
+        margin-top: 15px;
+    }
+    .consultant-content {
+        flex-direction: column;
+        
+    }
+    .specialists-dots {
+        margin-bottom: -20px;
+    }
+    .specialists-slider .consultant-content__consultant {
+        width: 345px;
+    }
+    .specialists-slider__item {
+        flex-direction: column;
+    }
+    .consultant-content__right-side, .consultant-content__left-side {
+        height: 330px;
+    }
+    .specialists {
+        padding-top: 80px;
+    }
+    .specialists__title {
+        max-width: 412px;
+        margin-bottom: 80px;
+    }
+    .circle806 {
+        height: 57px;
+        width: 57px;
+        top: -5.5px;
+        left: -10px;
+    }
+    
+    .circle807 {
+        height: 57px;
+        width: 57px;
+        top: -30px;
+        right: -10px;
+    }
+    .services {
+        min-height: 1750px;
+        
+        margin-top: 50px;
+    }
+    .services-bg {
+        min-height: 1750px;
+    }
+    .services__title {
+        width: 415px;
+    }
+    .services__part2, .services__part3 {
+        margin: 10px 0;
+    }
+    .services__left-side, .services__right-side {
+        align-items: center;
+        width: 100%;
+    }
+    .services__right-side {
+        flex-direction: column-reverse;
+    }
+
+    .services__body {
+        padding-bottom: 30px;
+    }
+
+    .services__left-side {
+        flex-direction: column;
+       
+    }
+    .services__part3 .services__right-side .services__part-content{
+        width: 100%;
+    }
+    
+    .services__part3 .services__right-side .services__part-subtitle {
+        width: 100%;
+    }
+    .services__part4 .services__left-side, .services__part4 .services__right-side {
+       flex-direction: column-reverse;
+    }
+    .services__part4 .services__right-side .services__part-subtitle{
+        margin: 5px 0;
+    }
+    .circle452 {
+        top: 0;
+    }
+    .circle804 {
+        height: 57px;
+        width: 57px;
+        right: -10px;
+    }
+    .circle805 {
+        height: 57px;
+        width: 57px;
+        left: 0px;
+        top: 60px;
+    }
+    .advantages {
+        padding-top: 50px;
+        background-image: url('../img/advantages/IMacScreen.jpg');
+        background-position: 0 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 150vw;
+        background-repeat: no-repeat;
+        border-bottom-width: 3px;
+        border-bottom-style: solid;
+        border-bottom-color: #d6aa4c;
+        
+    }
+
+    .advantages-monitor {
+        padding: 20px 0px 0 0px;
+        background-image: none;
+    }
+
+    .advantages-header {
+        width: 390px;
+        margin-bottom: 75px;
+    }
+
+    .advantages-body {
+        margin-top: -20px;
+        display: flex;
+        justify-content: space-between;
+        padding: 0 0;
+    }
+
+    .advantages-body__clear, .advantages-body__colored {
+       width: 100%;
+       margin-bottom: 25px;
+    }
+    
+
+    .advantages-body__upper-part, .advantages-body__lower-part {
+        flex-direction: column;
+        margin-top: 0;
+        width: 47%;
+    }
+    .title {
+        font-size: 40px;
+    }
+    .circle803 {
+        width: 43.5px;
+        height: 43.5px;
+        top: -22.8px;
+        right: -13.4px;
+    }
+    body {
+        padding-top: 50px;
+    }
+
+    
+
+    .heading {
+        top: 0;
+        left: 0;
+        position: fixed;
+        z-index: 100;
+        width: 100%;
+        padding: 5px 25px 0 25px;
+    }
+    .heading:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #0a3d36;
+    }
+    
+    .header__menu {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        z-index: -1;
+        transition: all 0.3s ease 0s;
+        background-color: #0a3d36;
+        width: 100%;
+        height: 300px;
+    }
+
+    .header__menu.active {
+        top: 51px;
+        
+    }
+    .menu {
+        padding: 10px 0;
+        position: relative;
+        z-index: -1;
+        font-size: 17px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-between;
+        height: 100%;
+    }
+    .menu li {
+        display: inline-block;
+        position: relative;
+        z-index: -1;
+        margin-right: 0px;
+        margin-left: 10px;
+        padding: 5px 9px;
+       font-size: 24px;
+    }
+
+    .header__burger {
+        
+        display: block;
+        position: relative;
+        height: 20px;
+        width: 30px;
+        margin-right: 20px;
+    }
+
+    .header__burger span {
+        background-color: #dadedd;
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        left: 0; 
+        top: 10px;
+    }
+    .header__burger:before,
+    .header__burger:after {
+        content: '';
+        background-color: #dadedd;
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        left: 0;
+        transition: all 0.3s ease 0s;
+    }
+
+    .header__burger:before {
+        top: 0;
+    }
+    .header__burger:after {
+        bottom: 0;
+    }
+
+    .header__burger.active:before {
+        transform: rotate(45deg);
+        top: 9px;
+    }
+    .header__burger.active:after {
+        transform: rotate(-45deg);
+        bottom: 9px;
+    }
+
+    .header__burger.active span {
+        transform: scale(0);
+        transition: all 0.3s ease 0s;
+    }
+
+/* --------------------------------- */
+
+    .header-content {
+        align-items: center;
+        margin-left: 0px;
+    }
+
+    .header-content__icon {
+        top: -32.5px;
+        left: -100px;
+        height: 85px;
+        width: 97.5px;
+    }
+    .header-content__first-txt {
+        font-size: 31.5px;
+        margin-left: 50px;
+    }
+    .header-content__second-txt {
+        font-size: 96.5px;
+    }
+
+    .header-button {
+        margin-top: 20px;
+    }
+    .appointment {
+        transform: scale(0.8);
+        transform-origin: bottom;
+    }
+
+    .appointment:hover {
+        transform: scale(0.83);
+    }
+
+    .login {
+        transform: scale(0.8);
+        transform-origin: top;
+        width: 482px;
+    }
+
+    .login:hover {
+        transform: scale(0.83);
+    }
+    
+    
+/* ABOUT */
+    .about {
+        height: 1500px;
+    }
+    
+    .about-header {
+        padding-top: 90px;
+    }
+    .about-title {
+        font-size: 50.4px;
+        width: 390px;
+        
+    }
+    .circle801 {
+        width: 64px;
+        height: 64px;
+        top: -24px;
+        left: -20px;
+    }
+
+    .circle802 {
+        width: 64px;
+        height: 64px;
+
+    }
+    .about-subtitle {
+        margin-top: 55px;
+        font-size: 24px;
+    }
+    .about-line {
+        margin-bottom: 90px;
+    }
+    .about-dots {
+        margin-top: -40px;
+        transform: scale(0.9);
+    }
+
+    .about-medium {
+        font-size: 50.4px;
+       
+    }
+    .about-medium__sign1 {
+        font-size: 20px;
+        left: 8%;
+        text-align: center;
+    }
+    
+    .about-medium__sign2 {
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .about-medium__sign3 {
+        font-size: 20px;
+        right: 2%;
+        text-align: center;
+    }
+
+    
+
+    .about-slider__item {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+    }
+    .about-slider__left {
+        max-width: 100%;
+        text-align: center;
+    }
+    .about-body__title {
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .about-body__line {
+        margin: 0 auto;
+    }
+
+    .about-body__content {
+        margin-top: 40px;
+        max-width: 100%;
+    }
+
+    .right-side {
+        margin-top: 30px;
+    }
+    
+}
+
+@media (max-width: 610px) {
+    
+    .specialists-dots .slick-dots button {
+        height: 100px;
+        width: 100px;
+    }
+    .services {
+        height: 2880px;
+    }
+    .services-bg {
+        height: 2880px;
+    }
+
+    .services__part2, .services__part3, .services__part4 {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin: 30px 0 0 0;
+    }
+
+    .services__part4 .services__right-side, .services__part4 .services__left-side {
+        flex-direction: column-reverse;
+    }
+    .services__left-side {
+        margin-right: 0;
+    }
+
+    .services__right-side {
+        margin-top: 30px;
+    }
+    .advantages {
+        height: 155vw;
+    }
+
+    .advantages-body__upper-part, .advantages-body__lower-part {
+        align-items: center;
+    }
+
+    .about {
+        height: 1600px;
+    }
+    .about-medium {     
+        min-width: 330px;
+    }
+    .header-content {
+        transform: scale(0.8);
+    }
+
+    .about-subtitle {
+        padding: 0 30px;
+    }
+    .about-dots {
+        transform: scale(0.8);
+        width: 130%;
+        margin-left: -15%;
+    }
+}
+
+/* Landscape phones and smaller */
+@media (max-width: 480px) {
+    .footer {
+        height: 100px;
+    }
+    .footer__logo, .footer__social-networks {
+        transform: scale(0.5);
+        transform-origin: top;
+        margin-top: 15px;
+    }
+    .footer__social-networks {
+        margin-top: -30px;
+    }
+    .map-title {
+        margin-top: 80px;
+    }
+    .map__right-side {
+        float: right;
+        transform: scale(0.6);
+        transform-origin: top;
+        margin-right: -70px;
+    }
+    .reviews {
+        height: 1050px;
+    }
+    .reviews__title {
+        width: 300px;
+        line-height: 1;
+        margin-bottom: 30px;
+    }
+    .reviews__ipad {
+        padding-top: 150px;
+    }
+    
+    .circle808 {
+        top: 0px;
+        left: 70px;
+    }
+    .circle809 {
+        top: 40px;
+        right: 0px;
+    }
+    .reviews__block-right, .reviews__block-left {
+        margin-bottom: 15px;
+    }
+    .specialists-slider .specialists__image {
+        width: 230px;
+        height: 230px;
+    }
+    .specialists-slider .consultant-content__consultant {
+        width: 250px;
+    }
+    .specialists-slider .consultant__image {
+        width: 100px;
+        height: 100px;
+    }
+    .consultant__name {
+        font-size: 20px;
+    }
+    .consultant-content__left, .consultant-content__right {
+        margin-left: 10px;
+    }
+    .consultant-content__right-side, .consultant-content__left-side {
+        height: 230px;
+    }
+    .specialists-slider .slick-arrow {
+        
+        top: 40%;
+        width: 30px;
+        height: 56px;
+    }
+    .specialists-dots {
+        padding: 0 10px;
+    }
+    .specialists-dots .slick-dots button {
+        height: 90px;
+        width: 90px;
+    }
+    .specialists__title {
+        max-width: 300px;
+        line-height: 1;
+    }
+    .circle806 {
+        top: 50px;
+        left: 10px;
+    }
+    .circle807 {
+        top: 0px;
+        right: 50px;
+    }
+    .services {
+        height: 2720px;
+    }
+    .services-bg {
+        height: 2920px;
+    }
+    .services__title {
+        width: 270px;
+    }
+    .services__body {
+        padding: 0 10px 30px 10px;
+    }
+    .services_image {
+        width: 140px;
+        height: 140px;
+    }
+    .services__part-subtitle {
+        max-width: 330px;
+    }
+    .circle804 {
+        top: 100px;
+    }
+    .circle805 {
+        left: 60px;
+    }
+    .advantages {
+        height: 170vw;
+        max-height: none;
+    }
+
+    .advantages-body__clear, .advantages-body__colored {
+        width: 90%;
+        margin-bottom: 25px;
+    }
+ 
+    .advantages-body__upper-part, .advantages-body__lower-part {
+        width: 100%;
+    }
+    .advantages-monitor {
+        padding: 0;
+    }
+    .advantages-header {
+        padding: 0px 0px 0px 0px;
+        width: 280px;
+        height: 100px;
+        margin-bottom: 40px;
+    }
+    .advantages-header__content {
+        height: 100px;
+        line-height: 1;
+    }
+    .circle803 {
+        top: 35px;
+    }
+    .about {
+        height: 1050px;
+    }
+    .about-header {
+        padding-top: 70px;
+    }
+    .about-title {
+        font-size: 36px;
+        width: 290px;
+    }
+
+    .circle801 {
+        width: 50px;
+        height: 50px;
+    }
+    .circle802 {
+        width: 50px;
+        height: 50px;
+        right: -15px;
+    }
+    .about-subtitle {
+        font-size: 19px;
+        margin-top: 40px;
+        padding: 0 20px;
+    }
+    .about-line {
+        width: 150px;
+        height: 2px;
+        margin-bottom: 80px;
+        margin-top: 30px;
+    }
+    .about-medium {     
+        min-width: 310px;
+        font-size: 36px;
+       
+    }
+    .header-content {
+        transform: scale(0.6);
+    }
+
+    .about-dots {
+        transform: scale(0.5);
+        min-width: 180%;
+        margin-left: -40%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .about-dots__line {
+        top: 110px;
+    }
+
+    .about-medium__sign1, .about-medium__sign2, .about-medium__sign3 {
+        display: none;
+    }
+
+    .about-slider {
+        margin-top: -40px;
+    }
+    .about-body__title {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    
+    .about-body__line {
+        width: 120px;
+        height: 2px;
+       
+    }
+
+    .about-body__content {
+        font-size: 19px;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 400px) {
+    .specialists-slider .consultant-content__consultant {
+        width: 230px;
+    }
+    .consultant-content p {
+        font-size: 17px;
+    }
+    .specialists-slider .specialists__image {
+        width: 200px;
+        height: 200px;
+    }
+}
+@media (min-width: 300px) and (max-width: 380px) {
+    .consultant-content__right-side, .consultant-content__left-side {
+        height: 170px;
+    } 
+    .specialists__post {
+        font-size: 19px;
+    }
+    .specialists__post p {
+        font-size: 19px;
+    }
+    .specialists-slider .consultant-content__consultant {
+        width: 200px;
+    }
+    .specialists-slider .consultant__image {
+        width: 70px;
+        height: 70px;
+    }
+    .consultant-content p {
+        font-size: 17px;
+        margin-top: 0px;
+    }
+    .specialists-slider .specialists__image {
+        width: 170px;
+        height: 170px;
+    }
+    .specialists-dots .slick-dots button {
+        height: 80px;
+        width: 80px;
+    }
+    .reviews {
+        height: 1100px;
+    }
+    .services {
+        height: 2820px;
+    }
+    .services-bg {
+        height: 3000px;
+    }
+    .services__part-subtitle {
+        max-width: 290px;
+    }
+    .about {
+        height: 1140px;
+    }
+    .advantages {
+        height: none;
+    }
+}
